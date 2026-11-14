@@ -40,3 +40,10 @@ npm run build
 ---
 
 Developed with ❤️ by Karima Yeasmin.
+## Author
+
+Karima Yeasmin
+
+## License
+
+This project is for learning purposes.
